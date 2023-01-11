@@ -1,0 +1,32 @@
+:root {
+    --header-height: 3rem;
+    --nav-width: 68px;
+    --primary-color: #0ea5e9;
+    --secondary-color: #0284c7;
+    --third-color: #1e3a8a;
+    --fourth-color: #4ade80;
+    --fifth-color: #f97316;
+    --sixth-color: #dc2626;
+    --shadow-first-color: #bae6fd;
+    --shadow-second-color: #f0f9ff;
+    --gray-color: #d4d4d8;
+    --gray-bold: #9ca3af;
+    --white-color: #fff;
+    --black-color: #000;
+    --shadow-first: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    --shadow-second: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
